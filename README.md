@@ -13,7 +13,7 @@
 ```javascript
 const tri = {
   code: [Javascript, Typescript, HTML, CSS, Python, PHP],
-  tools: [React, NodeJS, Docker],
+  tools: [Docker],
   challenge: "Learn algorithm & english"
 }
 ```
