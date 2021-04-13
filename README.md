@@ -1,6 +1,6 @@
 <h2> Hi, I'm NguyenTri! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 <img align='right' src="https://thumbs.gfycat.com/UnequaledVictoriousCorydorascatfish-max-1mb.gif" width="230">
-<p><em>Learn Software Engineer at <a href="http://www.tlu.edu.vn">University of ThuyLoi</a></br>Web Developer at <a href="https://www.savor.vn">4handy</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+<p><em>Learn Software Engineer at <a href="http://www.tlu.edu.vn">University of ThuyLoi</a></br>Web Developer at <a href="https://www.tigren.com">Tigren Solutions</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
 [![Twitter: nguyentri729](https://img.shields.io/twitter/follow/nguyentri729?style=social)](https://twitter.com/nguyentri729)
